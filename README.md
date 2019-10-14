@@ -58,3 +58,5 @@
 ### pygplot版本
 ![image](https://github.com/Aplicity/metro_prediction/blob/master/images/pyplot_show.png)
 
+## Note
+* 源数据为公共交通数据，包括公交等，如果只研究地铁方面，需要单独筛选。
