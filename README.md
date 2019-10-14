@@ -47,9 +47,16 @@
 * LSTM_24小时上海地铁客流量.html -- 基于pyecharts生成含时间条的柱状图（模型LSTM）
 * LSTM_Shanghai_7时_第0个5分.html -- 基于pyplot生成07:00～07:05的各站点Scattermapbox（模型LSTM）
 
+* images
+ - pyechart_show.png -- 基于pyecharts可视化截图
+ - pyplot_show.png -- 基于pyplot可视化截图
+
 ## 效果展示
 ### pyecharts版本
+![image](https://github.com/Aplicity/metro_prediction/blob/master/images/pyechart_show.png)
 
+### pygplot版本
+![image](https://github.com/Aplicity/metro_prediction/blob/master/images/pyplot_show.png)
 
 
   
