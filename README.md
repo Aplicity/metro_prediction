@@ -58,5 +58,3 @@
 ### pygplot版本
 ![image](https://github.com/Aplicity/metro_prediction/blob/master/images/pyplot_show.png)
 
-
-  
