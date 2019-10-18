@@ -60,3 +60,4 @@
 
 ## Note
 * 源数据为公共交通数据，包括公交等，如果只研究地铁方面，需要单独筛选。
+* 如想可视化其他城市，则修改get_shanghai_station_info.py中的城市代码，全国各个城市对应的代码见《BaiduMap_cityCode.txt》
